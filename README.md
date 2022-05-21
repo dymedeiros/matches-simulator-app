@@ -5,3 +5,5 @@ realizadas durante os seguintes conteúdos/vídeos:
 
 1. Desenvolvimento Mobile Nativo para Android
     - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/dymedeiros/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+2. Componentes, layouts e UI/UX em Apps Android
+    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/dymedeiros/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
